@@ -1,0 +1,255 @@
+body {
+    direction: ltr;
+}
+
+select
+, textarea
+, input[type="text"]
+, input[type="password"]
+, input[type="datetime"]
+, input[type="datetime-local"]
+, input[type="date"]
+, input[type="month"]
+, input[type="time"]
+, input[type="week"]
+, input[type="number"]
+, input[type="email"]
+, input[type="url"]
+, input[type="search"]
+, input[type="tel"]
+, input[type="color"]
+, .uneditable-input {
+    text-align: left;
+}
+
+.logo {
+    float: left;
+}
+
+.welcome {
+    float: left;
+}
+
+.language-div {
+    float: right;
+    /*margin-left: 0;*/
+    /*margin-right: 6px;*/
+}
+
+.language {
+    background-position: right 5px top 50%;
+}
+
+.clock {
+    float: right;
+    margin-right: 8px;
+    margin-left: 0;
+}
+
+.user-name {
+    float: left;
+}
+
+.sign-in-sign-up {
+    /*float: right;*/
+}
+
+.btn-exit {
+    float: right;
+}
+
+.in-or-up {
+    float: left;
+    text-align: left;
+}
+
+.in-or-up span {
+    /*margin-left: 0;*/
+    /*margin-right: 8px;*/
+}
+
+.in-or-up a
+, .forgot-password-switch {
+    margin-left: 0;
+    /*margin-right: 6px;*/
+}
+
+.in-or-up a:last-child {
+    margin-right: 0;
+}
+
+.sign-inputs input[type="text"]
+, .sign-inputs input[type="password"]
+, .sign-inputs a {
+    float: left;
+    margin-right: 5px;
+    margin-left: 0;
+}
+
+.sign-inputs input[name="user_name"]
+, .sign-inputs input[name="password"]
+, .sign-inputs input[name="user_name_sign"]
+, .sign-inputs input[name="password_sign_retype"] {
+    /*float: left;*/
+}
+
+.forgot-password {
+    /*float: right;*/
+}
+
+.about-inputs input
+, .about-inputs textarea
+, .about-inputs a {
+    float: left;
+}
+
+.total-score
+, .score
+, .btn-score-update {
+    left: 0;
+    right: auto;
+}
+
+.total-score[data-team-key="B"]
+, .score[data-team-key="B"]
+, .btn-score-update[data-team-key="B"] {
+    left: auto;
+    right: 0;
+}
+
+.all-players-team
+, .steady-players-team {
+    float: left;
+}
+
+.spare-player {
+    float: left;
+}
+
+.spare-player:nth-child(2n) {
+    float: right;
+}
+
+.btn-first {
+    float: left;
+}
+
+.btn-second {
+    float: right;
+}
+
+.fault {
+    right: auto;
+    left: 0;
+}
+
+.made-snooker {
+    left: auto;
+    right: 0;
+}
+
+.clock-modal {
+    right: 0;
+    left: auto;
+}
+
+.clock-modal.timer-modal {
+    right: auto;
+    left: 0;
+}
+
+.help {
+    left: 82px;
+    right: auto;
+}
+
+.remove-x {
+    right: 58px;
+    left: auto;
+}
+
+.btn-screen-saver-modal {
+    left: 0;
+    right: auto;
+}
+
+.btn-stats {
+    left: auto;
+    right: 38px;
+}
+
+.reds-left {
+    right: 0;
+    left: auto;
+}
+
+.btn-mute.btn-mute-player-name {
+    right: auto;
+    left: 0;
+}
+
+.btn-mute.btn-mute-score {
+    left: auto;
+    right: 0;
+}
+
+.btn-mute.btn-mute-player-name::before {
+    left: auto;
+    right: -15px;
+}
+
+.btn-mute.btn-mute-score::before {
+    right: auto;
+    left: -26px;
+}
+
+.num-of-reds-div {
+    text-align: left;
+}
+
+.num-of-reds-title {
+    float: left;
+}
+
+.num-of-reds {
+    float: right;
+}
+
+.frame-stats-div.of-modal .frame-stats-body td:first-child {
+    text-align: left;
+}
+
+.frame-stats-div.of-modal .frame-stats-body .ball-potted td {
+    text-align: right !important;
+    padding-left: 0;
+    padding-right: 12px;
+}
+
+.show-data-body.instructions-body {
+    text-align: left;
+}
+
+.choose-team-div
+, .choose-team-base-div {
+    float: left;
+}
+
+.choose-team-div[data-team-key="B"]
+, .choose-team-base-div[data-team-key="B"] {
+    float: right;
+}
+
+.uri-main {
+    text-align: left;
+}
+
+.ui-dialog .ui-dialog-buttonpane .ui-dialog-buttonset {
+    float: right;
+}
+
+@media (max-width: 532px) {
+    .language-div {
+        /*margin-left: 0;*/
+        /*margin-right: 10px;*/
+    }
+}
