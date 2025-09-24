@@ -1,0 +1,13 @@
+[21-Sep-2022 22:58:42 Asia/Jerusalem] PHP Fatal error:  Uncaught Error: Call to undefined function getPlayers() in /home/snookeri/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/snookeri/public_html/index.php on line 3
+[04-Apr-2024 10:01:16 UTC] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/snookeri/public_html/include_files/init.php on line 19
+[04-Apr-2024 10:01:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/snookeri/public_html/include_files/init.php on line 22
+[04-Apr-2024 10:01:37 UTC] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/snookeri/public_html/include_files/init.php on line 19
+[04-Apr-2024 10:01:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/snookeri/public_html/include_files/init.php on line 22
+[04-Apr-2024 10:13:07 UTC] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/snookeri/public_html/include_files/init.php on line 19
+[04-Apr-2024 10:13:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/snookeri/public_html/include_files/init.php on line 22
+[04-Apr-2024 10:14:14 UTC] PHP Warning:  ini_set(): Headers already sent. You cannot change the session module's ini settings at this time in /home/snookeri/public_html/include_files/init.php on line 19
+[04-Apr-2024 10:14:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/snookeri/public_html/include_files/init.php on line 22
+[07-Apr-2024 14:03:07 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/snookeri/public_html/germany.php on line 143
