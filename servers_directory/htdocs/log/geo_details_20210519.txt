@@ -1,0 +1,144 @@
+19-May-2021 21:08:22 Asia/Jerusalem
+stdClass Object
+(
+    [geoplugin_request] => 109.253.205.171
+    [geoplugin_status] => 200
+    [geoplugin_delay] => 2ms
+    [geoplugin_credit] => Some of the returned data includes GeoLite data created by MaxMind, available from <a href='http://www.maxmind.com'>http://www.maxmind.com</a>.
+    [geoplugin_city] => Tel Aviv
+    [geoplugin_region] => Tel Aviv
+    [geoplugin_regionCode] => TA
+    [geoplugin_regionName] => Tel Aviv
+    [geoplugin_areaCode] => 
+    [geoplugin_dmaCode] => 
+    [geoplugin_countryCode] => IL
+    [geoplugin_countryName] => Israel
+    [geoplugin_inEU] => 0
+    [geoplugin_euVATrate] => 
+    [geoplugin_continentCode] => AS
+    [geoplugin_continentName] => Asia
+    [geoplugin_latitude] => 32.0692
+    [geoplugin_longitude] => 34.7577
+    [geoplugin_locationAccuracyRadius] => 10
+    [geoplugin_timezone] => Asia/Jerusalem
+    [geoplugin_currencyCode] => ILS
+    [geoplugin_currencySymbol] => ₪
+    [geoplugin_currencySymbol_UTF8] => ₪
+    [geoplugin_currencyConverter] => 3.2543
+)
+
+19-May-2021 21:08:38 Asia/Jerusalem
+stdClass Object
+(
+    [geoplugin_request] => 109.253.205.171
+    [geoplugin_status] => 200
+    [geoplugin_delay] => 1ms
+    [geoplugin_credit] => Some of the returned data includes GeoLite data created by MaxMind, available from <a href='http://www.maxmind.com'>http://www.maxmind.com</a>.
+    [geoplugin_city] => Tel Aviv
+    [geoplugin_region] => Tel Aviv
+    [geoplugin_regionCode] => TA
+    [geoplugin_regionName] => Tel Aviv
+    [geoplugin_areaCode] => 
+    [geoplugin_dmaCode] => 
+    [geoplugin_countryCode] => IL
+    [geoplugin_countryName] => Israel
+    [geoplugin_inEU] => 0
+    [geoplugin_euVATrate] => 
+    [geoplugin_continentCode] => AS
+    [geoplugin_continentName] => Asia
+    [geoplugin_latitude] => 32.0692
+    [geoplugin_longitude] => 34.7577
+    [geoplugin_locationAccuracyRadius] => 10
+    [geoplugin_timezone] => Asia/Jerusalem
+    [geoplugin_currencyCode] => ILS
+    [geoplugin_currencySymbol] => ₪
+    [geoplugin_currencySymbol_UTF8] => ₪
+    [geoplugin_currencyConverter] => 3.2543
+)
+
+19-May-2021 23:36:36 Asia/Jerusalem
+stdClass Object
+(
+    [geoplugin_request] => 109.253.205.171
+    [geoplugin_status] => 200
+    [geoplugin_delay] => 1ms
+    [geoplugin_credit] => Some of the returned data includes GeoLite data created by MaxMind, available from <a href='http://www.maxmind.com'>http://www.maxmind.com</a>.
+    [geoplugin_city] => Tel Aviv
+    [geoplugin_region] => Tel Aviv
+    [geoplugin_regionCode] => TA
+    [geoplugin_regionName] => Tel Aviv
+    [geoplugin_areaCode] => 
+    [geoplugin_dmaCode] => 
+    [geoplugin_countryCode] => IL
+    [geoplugin_countryName] => Israel
+    [geoplugin_inEU] => 0
+    [geoplugin_euVATrate] => 
+    [geoplugin_continentCode] => AS
+    [geoplugin_continentName] => Asia
+    [geoplugin_latitude] => 32.0692
+    [geoplugin_longitude] => 34.7577
+    [geoplugin_locationAccuracyRadius] => 10
+    [geoplugin_timezone] => Asia/Jerusalem
+    [geoplugin_currencyCode] => ILS
+    [geoplugin_currencySymbol] => ₪
+    [geoplugin_currencySymbol_UTF8] => ₪
+    [geoplugin_currencyConverter] => 3.2543
+)
+
+19-May-2021 23:36:44 Asia/Jerusalem
+stdClass Object
+(
+    [geoplugin_request] => 109.253.205.171
+    [geoplugin_status] => 200
+    [geoplugin_delay] => 2ms
+    [geoplugin_credit] => Some of the returned data includes GeoLite data created by MaxMind, available from <a href='http://www.maxmind.com'>http://www.maxmind.com</a>.
+    [geoplugin_city] => Tel Aviv
+    [geoplugin_region] => Tel Aviv
+    [geoplugin_regionCode] => TA
+    [geoplugin_regionName] => Tel Aviv
+    [geoplugin_areaCode] => 
+    [geoplugin_dmaCode] => 
+    [geoplugin_countryCode] => IL
+    [geoplugin_countryName] => Israel
+    [geoplugin_inEU] => 0
+    [geoplugin_euVATrate] => 
+    [geoplugin_continentCode] => AS
+    [geoplugin_continentName] => Asia
+    [geoplugin_latitude] => 32.0692
+    [geoplugin_longitude] => 34.7577
+    [geoplugin_locationAccuracyRadius] => 10
+    [geoplugin_timezone] => Asia/Jerusalem
+    [geoplugin_currencyCode] => ILS
+    [geoplugin_currencySymbol] => ₪
+    [geoplugin_currencySymbol_UTF8] => ₪
+    [geoplugin_currencyConverter] => 3.2543
+)
+
+19-May-2021 23:36:49 Asia/Jerusalem
+stdClass Object
+(
+    [geoplugin_request] => 109.253.205.171
+    [geoplugin_status] => 200
+    [geoplugin_delay] => 1ms
+    [geoplugin_credit] => Some of the returned data includes GeoLite data created by MaxMind, available from <a href='http://www.maxmind.com'>http://www.maxmind.com</a>.
+    [geoplugin_city] => Tel Aviv
+    [geoplugin_region] => Tel Aviv
+    [geoplugin_regionCode] => TA
+    [geoplugin_regionName] => Tel Aviv
+    [geoplugin_areaCode] => 
+    [geoplugin_dmaCode] => 
+    [geoplugin_countryCode] => IL
+    [geoplugin_countryName] => Israel
+    [geoplugin_inEU] => 0
+    [geoplugin_euVATrate] => 
+    [geoplugin_continentCode] => AS
+    [geoplugin_continentName] => Asia
+    [geoplugin_latitude] => 32.0692
+    [geoplugin_longitude] => 34.7577
+    [geoplugin_locationAccuracyRadius] => 10
+    [geoplugin_timezone] => Asia/Jerusalem
+    [geoplugin_currencyCode] => ILS
+    [geoplugin_currencySymbol] => ₪
+    [geoplugin_currencySymbol_UTF8] => ₪
+    [geoplugin_currencyConverter] => 3.2543
+)

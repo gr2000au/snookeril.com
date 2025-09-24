@@ -1,0 +1,171 @@
+[04-Apr-2024 10:25:53 UTC] PHP Notice:  Undefined variable: lang_constants in /home/snookeri/public_html/include_files/init.php on line 138
+[07-Apr-2024 11:52:45 UTC] PHP Notice:  Undefined variable: db_link in /home/snookeri/public_html/germany.php on line 6
+[07-Apr-2024 11:52:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/snookeri/public_html/germany.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/snookeri/public_html/germany.php on line 6
+[07-Apr-2024 12:16:46 UTC] PHP Notice:  Undefined variable: all_items in /home/snookeri/public_html/germany.php on line 29
+[07-Apr-2024 12:16:46 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/snookeri/public_html/germany.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/snookeri/public_html/germany.php on line 40
+[07-Apr-2024 12:17:18 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/snookeri/public_html/germany.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/snookeri/public_html/germany.php on line 40
+[07-Apr-2024 12:18:34 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/snookeri/public_html/germany.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/snookeri/public_html/germany.php on line 40
+[07-Apr-2024 12:19:25 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/snookeri/public_html/germany.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/snookeri/public_html/germany.php on line 41
+[07-Apr-2024 12:21:03 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/snookeri/public_html/germany.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/snookeri/public_html/germany.php on line 41
+[07-Apr-2024 12:22:34 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/snookeri/public_html/germany.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/snookeri/public_html/germany.php on line 41
+[07-Apr-2024 12:25:05 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/snookeri/public_html/germany.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/snookeri/public_html/germany.php on line 42
+[07-Apr-2024 12:26:17 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/snookeri/public_html/germany.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/snookeri/public_html/germany.php on line 42
+[07-Apr-2024 12:26:20 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/snookeri/public_html/germany.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/snookeri/public_html/germany.php on line 42
+[07-Apr-2024 12:27:39 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/snookeri/public_html/germany.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/snookeri/public_html/germany.php on line 42
+[07-Apr-2024 12:52:16 UTC] PHP Notice:  Trying to get property 'category_id' of non-object in /home/snookeri/public_html/germany.php on line 58
+[07-Apr-2024 12:52:16 UTC] PHP Notice:  Trying to get property 'category_id' of non-object in /home/snookeri/public_html/germany.php on line 58
+[07-Apr-2024 12:52:16 UTC] PHP Notice:  Trying to get property 'category_id' of non-object in /home/snookeri/public_html/germany.php on line 58
+[07-Apr-2024 12:52:55 UTC] PHP Notice:  Trying to get property 'category_id' of non-object in /home/snookeri/public_html/germany.php on line 58
+[07-Apr-2024 12:52:55 UTC] PHP Notice:  Trying to get property 'category_id' of non-object in /home/snookeri/public_html/germany.php on line 58
+[07-Apr-2024 12:52:55 UTC] PHP Notice:  Trying to get property 'category_id' of non-object in /home/snookeri/public_html/germany.php on line 58
+[07-Apr-2024 12:54:43 UTC] PHP Notice:  Trying to get property 'category_id' of non-object in /home/snookeri/public_html/germany.php on line 59
+[07-Apr-2024 12:54:43 UTC] PHP Notice:  Trying to get property 'category_id' of non-object in /home/snookeri/public_html/germany.php on line 59
+[07-Apr-2024 12:54:43 UTC] PHP Notice:  Trying to get property 'category_id' of non-object in /home/snookeri/public_html/germany.php on line 59
+[07-Apr-2024 12:55:50 UTC] PHP Notice:  Trying to get property 'category_id' of non-object in /home/snookeri/public_html/germany.php on line 58
+[07-Apr-2024 12:55:50 UTC] PHP Notice:  Trying to get property 'category_id' of non-object in /home/snookeri/public_html/germany.php on line 58
+[07-Apr-2024 12:56:45 UTC] PHP Notice:  Trying to get property 'category_id' of non-object in /home/snookeri/public_html/germany.php on line 59
+[07-Apr-2024 12:56:45 UTC] PHP Notice:  Trying to get property 'category_id' of non-object in /home/snookeri/public_html/germany.php on line 59
+[07-Apr-2024 14:16:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'tbl.i_order' in 'order clause' in /home/snookeri/public_html/germany.php:7
+Stack trace:
+#0 /home/snookeri/public_html/germany.php(7): mysqli->prepare('\r\n             ...')
+#1 {main}
+  thrown in /home/snookeri/public_html/germany.php on line 7
+[07-Apr-2024 14:29:44 UTC] PHP Notice:  Undefined property: stdClass::$is_name_english in /home/snookeri/public_html/germany.php on line 114
+[07-Apr-2024 14:29:44 UTC] PHP Notice:  Undefined property: stdClass::$is_value_english in /home/snookeri/public_html/germany.php on line 119
+[07-Apr-2024 14:29:44 UTC] PHP Notice:  Undefined property: stdClass::$is_name_english in /home/snookeri/public_html/germany.php on line 132
+[07-Apr-2024 14:29:44 UTC] PHP Notice:  Undefined property: stdClass::$is_value_english in /home/snookeri/public_html/germany.php on line 137
+[07-Apr-2024 14:29:44 UTC] PHP Notice:  Undefined property: stdClass::$is_name_english in /home/snookeri/public_html/germany.php on line 132
+[07-Apr-2024 14:29:44 UTC] PHP Notice:  Undefined property: stdClass::$is_value_english in /home/snookeri/public_html/germany.php on line 137
+[07-Apr-2024 14:29:44 UTC] PHP Notice:  Undefined property: stdClass::$is_name_english in /home/snookeri/public_html/germany.php on line 132
+[07-Apr-2024 14:29:44 UTC] PHP Notice:  Undefined property: stdClass::$is_value_english in /home/snookeri/public_html/germany.php on line 137
+[07-Apr-2024 14:29:44 UTC] PHP Notice:  Undefined property: stdClass::$is_name_english in /home/snookeri/public_html/germany.php on line 132
+[07-Apr-2024 14:29:44 UTC] PHP Notice:  Undefined property: stdClass::$is_value_english in /home/snookeri/public_html/germany.php on line 137
+[07-Apr-2024 14:29:44 UTC] PHP Notice:  Undefined property: stdClass::$is_name_english in /home/snookeri/public_html/germany.php on line 132
+[07-Apr-2024 14:29:44 UTC] PHP Notice:  Undefined property: stdClass::$is_value_english in /home/snookeri/public_html/germany.php on line 137
+[07-Apr-2024 14:29:44 UTC] PHP Notice:  Undefined property: stdClass::$is_name_english in /home/snookeri/public_html/germany.php on line 132
+[07-Apr-2024 14:29:44 UTC] PHP Notice:  Undefined property: stdClass::$is_value_english in /home/snookeri/public_html/germany.php on line 137
+[07-Apr-2024 14:29:44 UTC] PHP Notice:  Undefined property: stdClass::$is_name_english in /home/snookeri/public_html/germany.php on line 114
+[07-Apr-2024 14:29:44 UTC] PHP Notice:  Undefined property: stdClass::$is_value_english in /home/snookeri/public_html/germany.php on line 119
+[07-Apr-2024 14:29:44 UTC] PHP Notice:  Undefined property: stdClass::$is_name_english in /home/snookeri/public_html/germany.php on line 114
+[07-Apr-2024 14:29:44 UTC] PHP Notice:  Undefined property: stdClass::$is_value_english in /home/snookeri/public_html/germany.php on line 119
+[07-Apr-2024 14:30:47 UTC] PHP Notice:  Undefined property: stdClass::$is_name_english in /home/snookeri/public_html/germany.php on line 114
+[07-Apr-2024 14:30:47 UTC] PHP Notice:  Undefined property: stdClass::$is_value_english in /home/snookeri/public_html/germany.php on line 119
+[07-Apr-2024 14:30:47 UTC] PHP Notice:  Undefined property: stdClass::$is_name_english in /home/snookeri/public_html/germany.php on line 132
+[07-Apr-2024 14:30:47 UTC] PHP Notice:  Undefined property: stdClass::$is_value_english in /home/snookeri/public_html/germany.php on line 137
+[07-Apr-2024 14:30:47 UTC] PHP Notice:  Undefined property: stdClass::$is_name_english in /home/snookeri/public_html/germany.php on line 132
+[07-Apr-2024 14:30:47 UTC] PHP Notice:  Undefined property: stdClass::$is_value_english in /home/snookeri/public_html/germany.php on line 137
+[07-Apr-2024 14:30:47 UTC] PHP Notice:  Undefined property: stdClass::$is_name_english in /home/snookeri/public_html/germany.php on line 132
+[07-Apr-2024 14:30:47 UTC] PHP Notice:  Undefined property: stdClass::$is_value_english in /home/snookeri/public_html/germany.php on line 137
+[07-Apr-2024 14:30:47 UTC] PHP Notice:  Undefined property: stdClass::$is_name_english in /home/snookeri/public_html/germany.php on line 132
+[07-Apr-2024 14:30:47 UTC] PHP Notice:  Undefined property: stdClass::$is_value_english in /home/snookeri/public_html/germany.php on line 137
+[07-Apr-2024 14:30:47 UTC] PHP Notice:  Undefined property: stdClass::$is_name_english in /home/snookeri/public_html/germany.php on line 132
+[07-Apr-2024 14:30:47 UTC] PHP Notice:  Undefined property: stdClass::$is_value_english in /home/snookeri/public_html/germany.php on line 137
+[07-Apr-2024 14:30:47 UTC] PHP Notice:  Undefined property: stdClass::$is_name_english in /home/snookeri/public_html/germany.php on line 132
+[07-Apr-2024 14:30:47 UTC] PHP Notice:  Undefined property: stdClass::$is_value_english in /home/snookeri/public_html/germany.php on line 137
+[07-Apr-2024 14:30:47 UTC] PHP Notice:  Undefined property: stdClass::$is_name_english in /home/snookeri/public_html/germany.php on line 114
+[07-Apr-2024 14:30:47 UTC] PHP Notice:  Undefined property: stdClass::$is_value_english in /home/snookeri/public_html/germany.php on line 119
+[07-Apr-2024 14:30:47 UTC] PHP Notice:  Undefined property: stdClass::$is_name_english in /home/snookeri/public_html/germany.php on line 114
+[07-Apr-2024 14:30:47 UTC] PHP Notice:  Undefined property: stdClass::$is_value_english in /home/snookeri/public_html/germany.php on line 119
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:34:00 UTC] PHP Notice:  Undefined property: stdClass::$link in /home/snookeri/public_html/germany.php on line 138
+[05-May-2024 08:36:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: The used SELECT statements have a different number of columns in /home/snookeri/public_html/germany.php:7
+Stack trace:
+#0 /home/snookeri/public_html/germany.php(7): mysqli->prepare('\r\n             ...')
+#1 {main}
+  thrown in /home/snookeri/public_html/germany.php on line 7

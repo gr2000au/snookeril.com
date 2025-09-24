@@ -1,0 +1,36 @@
+15-Jul-2021 19:59:33 Asia/Jerusalem
+
+15-Jul-2021 20:30:54 Asia/Jerusalem
+
+15-Jul-2021 20:33:11 Asia/Jerusalem
+
+15-Jul-2021 20:35:26 Asia/Jerusalem
+stdClass Object
+(
+    [geoplugin_request] => 192.168.1.18
+    [geoplugin_status] => 404
+    [geoplugin_delay] => 1ms
+    [geoplugin_credit] => Some of the returned data includes GeoLite data created by MaxMind, available from <a href='http://www.maxmind.com'>http://www.maxmind.com</a>.
+    [geoplugin_city] => 
+    [geoplugin_region] => 
+    [geoplugin_regionCode] => 
+    [geoplugin_regionName] => 
+    [geoplugin_areaCode] => 
+    [geoplugin_dmaCode] => 
+    [geoplugin_countryCode] => 
+    [geoplugin_countryName] => 
+    [geoplugin_inEU] => 0
+    [geoplugin_euVATrate] => 
+    [geoplugin_continentCode] => 
+    [geoplugin_continentName] => 
+    [geoplugin_latitude] => 
+    [geoplugin_longitude] => 
+    [geoplugin_locationAccuracyRadius] => 
+    [geoplugin_timezone] => 
+    [geoplugin_currencyCode] => 
+    [geoplugin_currencySymbol] => 
+    [geoplugin_currencySymbol_UTF8] => 
+    [geoplugin_currencyConverter] => 0
+)
+
+15-Jul-2021 20:37:01 Asia/Jerusalem
